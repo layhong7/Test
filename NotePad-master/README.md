@@ -112,4 +112,4 @@ PROJECTION只是定义了需要被取出来的数据列，而之后用Cursor进�
 再到Adapter进行装配和显示
 
 1.4. 显示效果
-
+![image](https://github.com/layhong7/Test/blob/master/NotePad-master/1.png)
